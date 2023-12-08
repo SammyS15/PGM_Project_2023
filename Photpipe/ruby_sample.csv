@@ -1,0 +1,34 @@
+SNID,type,notes
+2020acct,SNIIn,double peak
+2020aekp,SNIa-CSM,rare subtype
+2020aeqx,SNIIP,rare subtype
+2020esm,SNIIP,rare subtype
+2020fhj,SNIc-BL,rare subtype
+2020inp,SNIax[02cx-like],rare subtype
+2020kps,None,blue
+2020kre,SNIa-CSM,rare subtype
+2020nxt,SNIbn,rare subtype
+2020ojl,None,blue
+2020sck,SNIax[02cx-like],rare subtype
+2020sgf,SNIc,CSM interaction?
+2020tfb,SNIIP,rare subtype
+2020tlf,SNIIn,real preSN flux
+2020xsy,SLSN-II,rare subtype
+#2020zcp,SNIb,rare subtype
+2021aadc,SLSN-II,rare subtype
+#2021aadd,SNIb,rare subtype
+#2021accm,SNIb,rare subtype
+2021bmu,SNIa-91bg-like,rare subtype
+2021cbe,None,blue?
+#2021cly,SNIb,rare subtype
+2021cob,SNIax[02cx-like],rare subtype
+2021inl,SNIb-pec,rare subtype
+2021iyt,SNIbn,rare subtype
+2021jw,SNIc-BL,rare subtype
+2021nxq,SLSN-I,rare subtype
+2021skm,SNII,very red (ztfg - ztfr = 1.5)
+2021too,SNIc-BL,rare subtype
+2021vgn,SNII,double peak
+2021xbn,None,double peak?
+2021zfx,SNIbn,rare subtype
+

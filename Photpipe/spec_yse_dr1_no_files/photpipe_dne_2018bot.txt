@@ -1,0 +1,1 @@
+2018bot has no YSE photpipe data. <class 'FileNotFoundError'>. Look into this! 

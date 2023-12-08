@@ -1,0 +1,1 @@
+2019rwd has no YSE photpipe data. <class 'FileNotFoundError'>. Look into this! 

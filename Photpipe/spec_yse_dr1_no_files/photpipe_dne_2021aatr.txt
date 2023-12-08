@@ -1,0 +1,1 @@
+2021aatr has no YSE photpipe data. <class 'FileNotFoundError'>. Look into this! 
