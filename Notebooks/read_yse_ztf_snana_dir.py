@@ -42,10 +42,7 @@ def read_YSE_ZTF_snana_dir(dir_name, keep_ztf=True):
     yse_ztf_fp_df_list = []
 
     print("Reading YSE+ZTF SNANA-style data files from directory: ", dir_name)
-    
-    ''' 
-    This assumes the project folder is in Downloads AND the folder called DATA_PGM_Project is also in Downloads
-    '''
+
     for file_path in sorted(glob.glob('../Photpipe/'+dir_name+'/*')):
         #print(file_path)
     
